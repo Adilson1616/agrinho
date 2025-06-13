@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(221, 255, 98);
+    border-radius: 30px;
+    margin: 10px;
+    display: flex;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+input{
+height: 50px;
+border-radius: 50px;
+margin-top: 50px;
+width: 50px;
+}
+
+.cultivo{
+    margin-left: 500px;
+    margin-top: 50px;
+}
